@@ -32,6 +32,7 @@ for (int i = n - 1; i >= 0; i--) {
 | 7 | **Next Greater Element** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://www.geeksforgeeks.org/next-greater-element/) | [`7_next_greater_gfg.cpp`](./7_next_greater_gfg.cpp) | [Explanation & Dry Run](7_next_greater_gfg.md) |
 | 8 | **Daily Temperatures** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/daily-temperatures/) | [`8_daily_temp.cpp`](./8_daily_temp.cpp) | [Explanation & Dry Run](8_daily_temp.md) |
 | 9 | **Next Greater Element II** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/next-greater-element-ii/) | [`9_next_greater_2.cpp`](./9_next_greater_2.cpp) | [Explanation & Dry Run](9_next_greater_2.md) |
+| 10 | **Remove All Adjacent Duplicates in String II** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [`10_remove_adjacent_dup_1209.cpp`](./10_remove_adjacent_dup_1209.cpp) | [Explanation & Dry Run](10_remove_adjacent_dup_1209.md) |
 
 ---
 
