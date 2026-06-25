@@ -31,6 +31,8 @@ for (int i = 0; i < s.length(); i++) {
 | # | Problem Title | Difficulty | Source & Link | C++ Solution | Detailed Explanation |
 |---|---|---|---|---|---|
 | 1 | **First Unique Character in a String** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/first-unique-character-in-a-string/) | [`1_first_unique_char_387.cpp`](./1_first_unique_char_387.cpp) | [Explanation & Dry Run](1_first_unique_char_387.md) |
+| 2 | **Ransom Note** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/ransom-note/) | [`2_ransom_note_383.cpp`](./2_ransom_note_383.cpp) | [Explanation & Dry Run](2_ransom_note_383.md) |
+
 
 ---
 
