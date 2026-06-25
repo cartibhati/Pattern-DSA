@@ -18,6 +18,8 @@ This repository follows the structured learning path from the highly recommended
 | **Merge Intervals** | 📦 | [`Merge_intervals`](./Merge_intervals) | 🟢 Easy: 1 🟡 Medium: 4 | **5/5** | 🟩 Completed |
 | **Kadane's Algorithm** | ⚡ | [`Kadane`](./Kadane) | 🟡 Medium: 6 | **6/6** | 🟩 Completed |
 | **Stack** | 🥞 | [`Stack`](./Stack) | 🟢 Easy: 3 🟡 Medium: 7 | **10/10** | 🟩 Completed |
+| **Hashmap** | 🔑 | [`Hashmap`](./Hashmap) | 🟢 Easy: 1 | **1/1** | 🟩 Completed |
+
 
 ---
 
