@@ -19,6 +19,8 @@ This repository follows the structured learning path from the highly recommended
 | **Kadane's Algorithm** | ⚡ | [`Kadane`](./Kadane) | 🟡 Medium: 6 | **6/6** | 🟩 Completed |
 | **Stack** | 🥞 | [`Stack`](./Stack) | 🟢 Easy: 3 🟡 Medium: 7 | **10/10** | 🟩 Completed |
 | **Hashmap** | 🔑 | [`Hashmap`](./Hashmap) | 🟢 Easy: 4 | **4/4** | 🟩 Completed |
+| **Binary Search** | 🔍 | [`Binary_Search`](./Binary_Search) | 🟢 Easy: 1 | **1/1** | 🟩 Completed |
+
 
 
 
