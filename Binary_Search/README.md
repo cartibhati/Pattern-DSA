@@ -27,6 +27,7 @@ int binarySearch(vector<int>& nums, int target) {
 | # | Problem Title | Difficulty | Source & Link | C++ Solution | Detailed Explanation |
 |---|---|---|---|---|---|
 | 1 | **Binary Search** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/binary-search/) | [`1_binary_search_704.cpp`](./1_binary_search_704.cpp) | [Explanation & Dry Run](1_binary_search_704.md) |
+| 2 | **Ceil in Sorted Array** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) | [`2_find_ceil.cpp`](./2_find_ceil.cpp) | [Explanation & Dry Run](2_find_ceil.md) |
 
 ---
 
