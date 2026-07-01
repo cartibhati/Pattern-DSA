@@ -32,6 +32,7 @@ int binarySearch(vector<int>& nums, int target) {
 | 4 | **Peak Index in a Mountain Array** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [`4_mountain_aray_852.cpp`](./4_mountain_aray_852.cpp) | [Explanation & Dry Run](4_mountain_aray_852.md) |
 | 5 | **Number of Occurrence** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://www.geeksforgeeks.org/problems/number-of-occurrence2159/1) | [`5_count_freq.cpp`](./5_count_freq.cpp) | [Explanation & Dry Run](5_count_freq.md) |
 | 6 | **Find Minimum in Rotated Sorted Array** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [`6_find_min_roated_sorted_153.cpp`](./6_find_min_roated_sorted_153.cpp) | [Explanation & Dry Run](6_find_min_roated_sorted_153.md) |
+| 7 | **Find Minimum in Rotated Sorted Array II** | ![Hard](https://img.shields.io/badge/Difficulty-Hard-red) | [Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [`7_min_rotated_sorted_154.cpp`](./7_min_rotated_sorted_154.cpp) | [Explanation & Dry Run](7_min_rotated_sorted_154.md) |
 
 ---
 
