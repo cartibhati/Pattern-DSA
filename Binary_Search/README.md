@@ -35,6 +35,7 @@ int binarySearch(vector<int>& nums, int target) {
 | 7 | **Find Minimum in Rotated Sorted Array II** | ![Hard](https://img.shields.io/badge/Difficulty-Hard-red) | [Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [`7_min_rotated_sorted_154.cpp`](./7_min_rotated_sorted_154.cpp) | [Explanation & Dry Run](7_min_rotated_sorted_154.md) |
 | 8 | **Search in Rotated Sorted Array** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [`8_search_roated_sorted_33.cpp`](./8_search_roated_sorted_33.cpp) | [Explanation & Dry Run](8_search_roated_sorted_33.md) |
 | 9 | **Koko Eating Bananas** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/koko-eating-bananas/) | [`9_koko_eating_bananas.cpp`](./9_koko_eating_bananas.cpp) | [Explanation & Dry Run](9_koko_eating_bananas.md) |
+| 10 | **Minimum Number of Days to Make m Bouquets** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [`10_min_days_to_make_m_bouqets.cpp`](./10_min_days_to_make_m_bouqets.cpp) | [Explanation & Dry Run](10_min_days_to_make_m_bouqets.md) |
 
 ---
 
