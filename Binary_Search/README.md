@@ -34,6 +34,7 @@ int binarySearch(vector<int>& nums, int target) {
 | 6 | **Find Minimum in Rotated Sorted Array** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [`6_find_min_roated_sorted_153.cpp`](./6_find_min_roated_sorted_153.cpp) | [Explanation & Dry Run](6_find_min_roated_sorted_153.md) |
 | 7 | **Find Minimum in Rotated Sorted Array II** | ![Hard](https://img.shields.io/badge/Difficulty-Hard-red) | [Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [`7_min_rotated_sorted_154.cpp`](./7_min_rotated_sorted_154.cpp) | [Explanation & Dry Run](7_min_rotated_sorted_154.md) |
 | 8 | **Search in Rotated Sorted Array** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [`8_search_roated_sorted_33.cpp`](./8_search_roated_sorted_33.cpp) | [Explanation & Dry Run](8_search_roated_sorted_33.md) |
+| 9 | **Koko Eating Bananas** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/koko-eating-bananas/) | [`9_koko_eating_bananas.cpp`](./9_koko_eating_bananas.cpp) | [Explanation & Dry Run](9_koko_eating_bananas.md) |
 
 ---
 
