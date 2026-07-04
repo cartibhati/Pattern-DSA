@@ -36,6 +36,7 @@ int binarySearch(vector<int>& nums, int target) {
 | 8 | **Search in Rotated Sorted Array** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [`8_search_roated_sorted_33.cpp`](./8_search_roated_sorted_33.cpp) | [Explanation & Dry Run](8_search_roated_sorted_33.md) |
 | 9 | **Koko Eating Bananas** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/koko-eating-bananas/) | [`9_koko_eating_bananas.cpp`](./9_koko_eating_bananas.cpp) | [Explanation & Dry Run](9_koko_eating_bananas.md) |
 | 10 | **Minimum Number of Days to Make m Bouquets** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [`10_min_days_to_make_m_bouqets.cpp`](./10_min_days_to_make_m_bouqets.cpp) | [Explanation & Dry Run](10_min_days_to_make_m_bouqets.md) |
+| 11 | **Aggressive Cows** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | [`11_aggresive_cows.cpp`](./11_aggresive_cows.cpp) | [Explanation & Dry Run](11_aggresive_cows.md) |
 
 ---
 
