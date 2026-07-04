@@ -25,6 +25,7 @@ priority_queue<int, vector<int>, greater<int>> min_heap; // Top element is the m
 | # | Problem Title | Difficulty | Source & Link | C++ Solution | Detailed Explanation |
 |---|---|---|---|---|---|
 | 1 | **Kth Smallest Element** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [`1_k_smallest.cpp`](./1_k_smallest.cpp) | [Explanation & Dry Run](1_k_smallest.md) |
+| 2 | **Kth Largest Element in an Array** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [`2_k_largest.cpp`](./2_k_largest.cpp) | [Explanation & Dry Run](2_k_largest.md) |
 
 ---
 
