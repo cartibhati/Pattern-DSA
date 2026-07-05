@@ -28,6 +28,7 @@ priority_queue<int, vector<int>, greater<int>> min_heap; // Top element is the m
 | 2 | **Kth Largest Element in an Array** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [`2_k_largest.cpp`](./2_k_largest.cpp) | [Explanation & Dry Run](2_k_largest.md) |
 | 3 | **Top K Frequent Elements** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/top-k-frequent-elements/) | [`3_top_k_frequent_elements.cpp`](./3_top_k_frequent_elements.cpp) | [Explanation & Dry Run](3_top_k_frequent_elements.md) |
 | 4 | **Top K Frequent Words** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/top-k-frequent-words/) | [`4_top_k_freq_word.cpp`](./4_top_k_freq_word.cpp) | [Explanation & Dry Run](4_top_k_freq_word.md) |
+| 5 | **K Closest Points to Origin** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/k-closest-points-to-origin/) | [`5_k_closest_point_to_origin.cpp`](./5_k_closest_point_to_origin.cpp) | [Explanation & Dry Run](5_k_closest_point_to_origin.md) |
 
 ---
 
