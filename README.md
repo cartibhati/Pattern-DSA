@@ -20,7 +20,7 @@ This repository follows the structured learning path from the highly recommended
 | **Stack** | 🥞 | [`Stack`](./Stack) | 🟢 Easy: 3 🟡 Medium: 7 | **10/10** | 🟩 Completed |
 | **Hashmap** | 🔑 | [`Hashmap`](./Hashmap) | 🟢 Easy: 4 | **4/4** | 🟩 Completed |
 | **Binary Search** | 🔍 | [`Binary_Search`](./Binary_Search) | 🟢 Easy: 3 🟡 Medium: 7 🔴 Hard: 1 | **11/11** | 🟩 Completed |
-| **Heap / Priority Queue** | 🏔️ | [`Heap`](./Heap) | 🟡 Medium: 3 | **3/3** | 🟩 Completed |
+| **Heap / Priority Queue** | 🏔️ | [`Heap`](./Heap) | 🟡 Medium: 4 | **4/4** | 🟩 Completed |
 
 
 
