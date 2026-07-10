@@ -51,7 +51,9 @@ void backtrack(State& state, Result& result, Options& options) {
 | # | Problem Title | Difficulty | Source & Link | C++ Solution | Detailed Explanation |
 |---|---|---|---|---|---|
 | 1 | **Fibonacci Number** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/fibonacci-number/) | [`1_fibonacci.cpp`](./1_fibonacci.cpp) | [Explanation & Dry Run](1_fibonacci.md) |
+| 2 | **Palindrome String** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | [`2_isPalindrome.cpp`](./2_isPalindrome.cpp) | [Explanation & Dry Run](2_isPalindrome.md) |
 
 ---
+
 
 *Click on any problem's explanation link to read the step-by-step dry run, logic, and complexity analysis!*
