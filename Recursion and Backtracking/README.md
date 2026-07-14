@@ -53,6 +53,7 @@ void backtrack(State& state, Result& result, Options& options) {
 | 1 | **Fibonacci Number** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/fibonacci-number/) | [`1_fibonacci.cpp`](./1_fibonacci.cpp) | [Explanation & Dry Run](1_fibonacci.md) |
 | 2 | **Palindrome String** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | [`2_isPalindrome.cpp`](./2_isPalindrome.cpp) | [Explanation & Dry Run](2_isPalindrome.md) |
 | 3 | **Add Digits** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/add-digits/) | [`3_add_digits.cpp`](./3_add_digits.cpp) | [Explanation & Dry Run](3_add_digits.md) |
+| 4 | **Check if Array is Sorted** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://www.geeksforgeeks.org/program-to-check-if-an-array-is-sorted-or-not-recursive/) | [`4_isSorted.cpp`](./4_isSorted.cpp) | [Explanation & Dry Run](4_isSorted.md) |
 
 ---
 
