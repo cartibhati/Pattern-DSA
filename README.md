@@ -21,7 +21,7 @@ This repository follows the structured learning path from the highly recommended
 | **Hashmap** | 🔑 | [`Hashmap`](./Hashmap) | 🟢 Easy: 4 | **4/4** | 🟩 Completed |
 | **Binary Search** | 🔍 | [`Binary_Search`](./Binary_Search) | 🟢 Easy: 3 🟡 Medium: 7 🔴 Hard: 1 | **11/11** | 🟩 Completed |
 | **Heap / Priority Queue** | 🏔️ | [`Heap`](./Heap) | 🟡 Medium: 5 | **5/5** | 🟩 Completed |
-| **Recursion & Backtracking** | 🔄 | [`Recursion and Backtracking`](./Recursion%20and%20Backtracking) | 🟢 Easy: 2 | **2/2** | 🟩 Completed |
+| **Recursion & Backtracking** | 🔄 | [`Recursion and Backtracking`](./Recursion%20and%20Backtracking) | 🟢 Easy: 5 🟡 Medium: 1 | **6/6** | 🟩 Completed |
 
 
 ---

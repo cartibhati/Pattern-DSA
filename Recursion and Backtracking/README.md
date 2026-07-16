@@ -55,6 +55,7 @@ void backtrack(State& state, Result& result, Options& options) {
 | 3 | **Add Digits** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/add-digits/) | [`3_add_digits.cpp`](./3_add_digits.cpp) | [Explanation & Dry Run](3_add_digits.md) |
 | 4 | **Check if Array is Sorted** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://www.geeksforgeeks.org/program-to-check-if-an-array-is-sorted-or-not-recursive/) | [`4_isSorted.cpp`](./4_isSorted.cpp) | [Explanation & Dry Run](4_isSorted.md) |
 | 5 | **Remove Character Occurrences** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://www.geeksforgeeks.org/recursive-program-to-remove-all-occurrences-of-a-char-from-string/) | [`5_remove_occ_of_char.cpp`](./5_remove_occ_of_char.cpp) | [Explanation & Dry Run](5_remove_occ_of_char.md) |
+| 6 | **Generate Parentheses** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/generate-parentheses/) | [`6_generate_parenthesis.cpp`](./6_generate_parenthesis.cpp) | [Explanation & Dry Run](6_generate_parenthesis.md) |
 
 ---
 
