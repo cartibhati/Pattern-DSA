@@ -57,6 +57,7 @@ void backtrack(State& state, Result& result, Options& options) {
 | 5 | **Remove Character Occurrences** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://www.geeksforgeeks.org/recursive-program-to-remove-all-occurrences-of-a-char-from-string/) | [`5_remove_occ_of_char.cpp`](./5_remove_occ_of_char.cpp) | [Explanation & Dry Run](5_remove_occ_of_char.md) |
 | 6 | **Generate Parentheses** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/generate-parentheses/) | [`6_generate_parenthesis.cpp`](./6_generate_parenthesis.cpp) | [Explanation & Dry Run](6_generate_parenthesis.md) |
 | 7 | **Letter Combinations of a Phone Number** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [`7_letter_comb_of_phone_number.cpp`](./7_letter_comb_of_phone_number.cpp) | [Explanation & Dry Run](7_letter_comb_of_phone_number.md) |
+| 8 | **Combination Sum** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/combination-sum/) | [`8_combination_sum.cpp`](./8_combination_sum.cpp) | [Explanation & Dry Run](8_combination_sum.md) |
 
 ---
 
