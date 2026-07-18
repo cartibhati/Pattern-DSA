@@ -49,6 +49,7 @@ void postorder(TreeNode* root) {
 | # | Problem Title | Difficulty | Source & Link | C++ Solution | Detailed Explanation |
 |---|---|---|---|---|---|
 | 1 | **Binary Tree Inorder Traversal** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [`1_inorder.cpp`](./1_inorder.cpp) | [Explanation & Dry Run](1_inorder.md) |
+| 2 | **Binary Tree Preorder Traversal** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [`2_preorder.cpp`](./2_preorder.cpp) | [Explanation & Dry Run](2_preorder.md) |
 
 ---
 
