@@ -52,6 +52,7 @@ void postorder(TreeNode* root) {
 | 2 | **Binary Tree Preorder Traversal** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [`2_preorder.cpp`](./2_preorder.cpp) | [Explanation & Dry Run](2_preorder.md) |
 | 3 | **Binary Tree Postorder Traversal** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [`3_postorder.cpp`](./3_postorder.cpp) | [Explanation & Dry Run](3_postorder.md) |
 | 4 | **Binary Tree Level Order Traversal** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [`4_level_order_traversal.cpp`](./4_level_order_traversal.cpp) | [Explanation & Dry Run](4_level_order_traversal.md) |
+| 5 | **Binary Tree Zigzag Level Order Traversal** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [`5_zig_zag_traversal.cpp`](./5_zig_zag_traversal.cpp) | [Explanation & Dry Run](5_zig_zag_traversal.md) |
 
 ---
 
