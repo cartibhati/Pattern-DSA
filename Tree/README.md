@@ -20,6 +20,7 @@ To check if two trees are identical in structure and node values:
 |---|---|---|---|---|---|
 | 1 | **Same Tree** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/same-tree/) | [`1_same_tree.cpp`](./1_same_tree.cpp) | [Explanation & Dry Run](1_same_tree.md) |
 | 2 | **Symmetric Tree** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/symmetric-tree/) | [`2_symmetric_tree.cpp`](./2_symmetric_tree.cpp) | [Explanation & Dry Run](2_symmetric_tree.md) |
+| 3 | **Invert Binary Tree** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/invert-binary-tree/) | [`3_Invert_tree.cpp`](./3_Invert_tree.cpp) | [Explanation & Dry Run](3_Invert_tree.md) |
 
 ---
 
