@@ -23,6 +23,8 @@ To check if two trees are identical in structure and node values:
 | 3 | **Invert Binary Tree** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/invert-binary-tree/) | [`3_Invert_tree.cpp`](./3_Invert_tree.cpp) | [Explanation & Dry Run](3_Invert_tree.md) |
 | 4 | **Lowest Common Ancestor** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [`4_lowest_common_ancestor.cpp`](./4_lowest_common_ancestor.cpp) | [Explanation & Dry Run](4_lowest_common_ancestor.md) |
 | 5 | **Search in a BST** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [`5_search_in_BST.cpp`](./5_search_in_BST.cpp) | [Explanation & Dry Run](5_search_in_BST.md) |
+| 6 | **LCA in a BST** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | [`6_lca_in_BST.cpp`](./6_lca_in_BST.cpp) | [Explanation & Dry Run](6_lca_in_BST.md) |
+
 
 
 
