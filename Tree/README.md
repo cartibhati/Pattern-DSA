@@ -25,7 +25,7 @@ To check if two trees are identical in structure and node values:
 | 5 | **Search in a BST** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [`5_search_in_BST.cpp`](./5_search_in_BST.cpp) | [Explanation & Dry Run](5_search_in_BST.md) |
 | 6 | **LCA in a BST** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | [`6_lca_in_BST.cpp`](./6_lca_in_BST.cpp) | [Explanation & Dry Run](6_lca_in_BST.md) |
 | 7 | **Two Sum IV - Input is a BST** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [`7_two_sum_BST.cpp`](./7_two_sum_BST.cpp) | [Explanation & Dry Run](7_two_sum_BST.md) |
-
+| 8 | **Diameter of Binary Tree** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/diameter-of-binary-tree/) | [`8_diameter_of_binary_tree.cpp`](./8_diameter_of_binary_tree.cpp) | [Explanation & Dry Run](8_diameter_of_binary_tree.md) |
 
 
 
