@@ -27,6 +27,8 @@ To check if two trees are identical in structure and node values:
 | 7 | **Two Sum IV - Input is a BST** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [`7_two_sum_BST.cpp`](./7_two_sum_BST.cpp) | [Explanation & Dry Run](7_two_sum_BST.md) |
 | 8 | **Diameter of Binary Tree** | ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) | [Problem Link](https://leetcode.com/problems/diameter-of-binary-tree/) | [`8_diameter_of_binary_tree.cpp`](./8_diameter_of_binary_tree.cpp) | [Explanation & Dry Run](8_diameter_of_binary_tree.md) |
 | 9 | **Check Completeness of a Binary Tree** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [`9_completeness_of_binary_tree.cpp`](./9_completeness_of_binary_tree.cpp) | [Explanation & Dry Run](9_completeness_of_binary_tree.md) |
+| 10 | **Construct Binary Tree from Preorder and Inorder Traversal** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [`10_construct-tree_pre_in.cpp`](./10_construct-tree_pre_in.cpp) | [Explanation & Dry Run](10_construct-tree_pre_in.md) |
+
 
 
 ---
