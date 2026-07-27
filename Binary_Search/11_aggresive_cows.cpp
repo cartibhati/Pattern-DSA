@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
 public:
 
     bool isPossible(vector<int>& arr, int mid, int k) {
