@@ -24,6 +24,7 @@ This repository follows the structured learning path from the highly recommended
 | **Recursion & Backtracking** | 🔄 | [`Recursion and Backtracking`](./Recursion%20and%20Backtracking) | 🟢 Easy: 5 🟡 Medium: 3 | **8/8** | 🟩 Completed |
 | **Tree** | 🌲 | [`Tree`](./Tree) | 🟢 Easy: 7 🟡 Medium: 3 | **10/10** | 🟩 Completed |
 | **Tree Traversal** | 🌲 | [`Tree/Tree_traversal`](./Tree/Tree_traversal) | 🟢 Easy: 3 🟡 Medium: 2 | **5/5** | 🟩 Completed |
+| **Graph** | 🕸️ | [`Graph`](./Graph) | 🟢 Easy: 1 | **1/1** | 🟩 Completed |
 
 
 ---
