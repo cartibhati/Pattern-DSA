@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int max(vector<int>&a){
+    int max(vector<int>&a){ 
         int maxi=INT_MIN;
         for(int i=0;i<a.size();i++){
             if(a[i]>maxi)
