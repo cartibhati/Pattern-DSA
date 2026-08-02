@@ -1,4 +1,4 @@
-# First Unique Character in a String (LeetCode 387)
+# First Unique Character in a String (LeetCode 387) 
 
 ![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 🔗 **[Problem Link](https://leetcode.com/problems/first-unique-character-in-a-string/)**
