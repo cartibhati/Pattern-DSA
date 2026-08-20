@@ -1,5 +1,5 @@
 # 🏆 Pattern-Based Data Structures & Algorithms
-
+ 
 Welcome to the **Pattern-DSA** repository! This project is a curated compilation of coding problems, sourced primarily from **LeetCode** and **GeeksforGeeks (GFG)**, organized strictly by algorithmic and design **patterns** rather than random topics. 
 
 This repository follows the structured learning path from the highly recommended YouTube playlist: 
