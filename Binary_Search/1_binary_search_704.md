@@ -1,7 +1,7 @@
 # Binary Search (LeetCode 704)
 
 ![Easy](https://img.shields.io/badge/Difficulty-Easy-green)
-🔗 **[Problem Link](https://leetcode.com/problems/binary-search/)**
+🔗 **[Problem Link](https://leetcode.com/problems/binary-search/)** 
 
 ---
 
