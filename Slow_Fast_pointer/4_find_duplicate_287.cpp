@@ -7,7 +7,6 @@ public:
             slow=nums[slow];
             fast=nums[fast];
             fast=nums[fast];
-
             if(slow==fast){
                 slow=0;
                 while(slow!=fast){
