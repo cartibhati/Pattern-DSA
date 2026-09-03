@@ -1,11 +1,11 @@
 class Solution {
 public:
-    int sumOfSq(int n){
+    int fun(int n){
         int sum=0;
         while(n>0){
-            int d=n%10;
+            int r=n%10;
             n=n/10;
-            sum+=d*d;
+            sum=sum+r*r;
         }
         return sum;
     }
@@ -13,9 +13,9 @@ public:
         int slow=n;
         int fast=n;
         while(fast!=1){
-            slow = sumOfSq(slow);
-            fast = sumOfSq(sumOfSq(fast));
-
+            slow=fun(slow);
+            fast=fun(fast);
+            fast=fun(fast);
             if(slow==fast && slow!=1){
                 return false;
             }
