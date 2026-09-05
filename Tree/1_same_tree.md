@@ -24,9 +24,7 @@ We can compare two binary trees recursively by traversing both trees simultaneou
    - If `p->val != q->val`, the values at the current corresponding nodes differ $\rightarrow$ return `false`.
 
 2. **Recursive Traversal**:
-   - Recursively check if the left subtrees are identical: `isSameTree(p->left, q->left)`.
-   - Recursively check if the right subtrees are identical: `isSameTree(p->right, q->right)`.
-   - Both subtrees must be identical $\rightarrow$ return `r1 && r2`.
+   - Recursively check if both left and right subtrees are identical $\rightarrow$ return `isSameTree(p->left, q->left) && isSameTree(p->right, q->right)`.
 
 ---
 
@@ -91,11 +89,10 @@ public:
         return true;
         if(p==NULL || q==NULL)
         return false;
-        if(p->val != q->val)
+        if(p->val!=q->val)
         return false;
-        bool r1=isSameTree(p->left,q->left);
-        bool r2=isSameTree(p->right,q->right);
-        return r1&&r2;
+
+        return isSameTree(p->left,q->left) && isSameTree(p->right,q->right);
     }
 };
 ```
