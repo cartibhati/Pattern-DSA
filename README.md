@@ -25,6 +25,7 @@ This repository follows the structured learning path from the highly recommended
 | **Tree** | 🌲 | [`Tree`](./Tree) | 🟢 Easy: 7 🟡 Medium: 3 | **10/10** | 🟩 Completed |
 | **Tree Traversal** | 🌲 | [`Tree/Tree_traversal`](./Tree/Tree_traversal) | 🟢 Easy: 3 🟡 Medium: 2 | **5/5** | 🟩 Completed |
 | **Graph** | 🕸️ | [`Graph`](./Graph) | 🟢 Easy: 1 | **1/1** | 🟩 Completed |
+| **Math** | 🧮 | [`Math`](./Math) | 🟢 Easy: 1 | **1/1** | 🟩 Completed |
 
 
 ---
