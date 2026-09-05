@@ -30,6 +30,7 @@ while (left < right) {
 | 5 | **Two Sum II - Input Array Is Sorted** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [`1_Two_sum_2.cpp`](./1_Two_sum_2.cpp) | [Explanation & Dry Run](1_Two_sum_2.md) |
 | 6 | **3Sum** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/3sum/) | [`5_3_sum.cpp`](./5_3_sum.cpp) | [Explanation & Dry Run](5_3_sum.md) |
 | 7 | **3Sum Smaller** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://www.geeksforgeeks.org/problems/3-sum-smaller5017/1) | [`6_triplets_with_smaller_sum.cpp`](./6_triplets_with_smaller_sum.cpp) | [Explanation & Dry Run](6_triplets_with_smaller_sum.md) |
+| 8 | **Container With Most Water** | ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) | [Problem Link](https://leetcode.com/problems/container-with-most-water/) | [`8_Container With Most Water.cpp`](./8_Container%20With%20Most%20Water.cpp) | [Explanation & Dry Run](8_Container%20With%20Most%20Water.md) |
 
 ---
 

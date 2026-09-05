@@ -12,7 +12,7 @@ This repository follows the structured learning path from the highly recommended
 | Pattern | Emoji | Folder | Difficulty Breakdown | Progress | Status |
 |---|---|---|---|---|---|
 | **Prefix Sum** | 🏁 | [`Prefix_Sum`](./Prefix_Sum) | 🟢 Easy: 1 🟡 Medium: 3 | **4/4** | 🟩 Completed |
-| **Two Pointer** | 雙 | [`Two_pointer`](./Two_pointer) | 🟢 Easy: 4 🟡 Medium: 3 | **7/7** | 🟩 Completed |
+| **Two Pointer** | 雙 | [`Two_pointer`](./Two_pointer) | 🟢 Easy: 4 🟡 Medium: 4 | **8/8** | 🟩 Completed |
 | **Sliding Window** | 🪟 | [`Sliding_Window`](./Sliding_Window) | 🟢 Easy: 1 🟡 Medium: 4 | **5/5** | 🟩 Completed |
 | **Slow & Fast Pointer** | 🐢🐇 | [`Slow_Fast_pointer`](./Slow_Fast_pointer) | 🟢 Easy: 4 🟡 Medium: 2 | **6/6** | 🟩 Completed |
 | **Merge Intervals** | 📦 | [`Merge_intervals`](./Merge_intervals) | 🟢 Easy: 1 🟡 Medium: 4 | **5/5** | 🟩 Completed |
